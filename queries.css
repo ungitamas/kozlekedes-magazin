@@ -1,0 +1,14 @@
+/* A reszponzív media queryket a következő órákon készítjük el. */
+
+@media (max-width: 700px) {
+  .main-header {
+    border: dashed 12px indianred;
+    background-color: orangered;
+  }
+}
+
+@media (max-width: 1200px) {
+  .main-header {
+    background-color: indigo;
+  }
+}
